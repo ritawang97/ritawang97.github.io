@@ -7,6 +7,8 @@ English academic homepage for Rui Wang, hosted with GitHub Pages.
 - `index.html`: biography, links, publications, education and experience.
 - `styles.css`: responsive layout and typography.
 - `assets/rui-wang.jpg`: portrait supplied by Rui Wang.
+- `assets/publications/`: original figures supplied by Rui Wang.
+- `assets/logos/`: institution marks. Provenance is recorded in `assets/SOURCES.md`.
 
 No build tools, external fonts, or tracking are required. Contact is shown as a plain-text email address.
 
