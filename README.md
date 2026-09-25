@@ -6,6 +6,7 @@ English academic homepage for Rui Wang, hosted with GitHub Pages.
 
 - `index.html`: biography, links, publications, education and experience.
 - `styles.css`: responsive layout and typography.
+- `name-space.js`: canvas stardust title, pointer/keyboard interaction, and animation controls. No audio.
 - `assets/rui-wang.jpg`: portrait supplied by Rui Wang.
 - `assets/publications/`: original figures supplied by Rui Wang.
 - `assets/logos/`: institution marks. Provenance is recorded in `assets/SOURCES.md`.
@@ -24,4 +25,8 @@ JCR Q1 labels refer to 2024 JCR data (2025 release): Maturitas in Obstetrics & G
 
 ## Stylesheet publication
 
-After editing `styles.css`, copy it to `assets/styles-<first 12 SHA256 characters>.css` and update the stylesheet URL in `index.html` before publishing. Keep previously published versioned CSS files so cached HTML still resolves. This prevents older cached CSS from being paired with newer page markup.
+After editing `styles.css`, copy it to `assets/styles-<first 12 SHA256 characters>.css` and update the stylesheet URL in `index.html` before publishing. Apply the same process to `name-space.js`, using `assets/name-space-<first 12 SHA256 characters>.js` for the script URL. Keep previously published versioned CSS files so cached HTML still resolves. This prevents older cached CSS from being paired with newer page markup.
+
+## Stardust name field
+
+The title remains a semantic heading for assistive technology, printing, and fallback when canvas is unavailable. Hover or touch the name to disperse particles; leave to let them return. Keyboard users can focus the field and press Enter or Space. Motion can be paused, follows the system reduced-motion preference by default, and stops when the field is offscreen or the page is hidden. No sound, external animation libraries, or tracking are used.
