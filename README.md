@@ -8,7 +8,7 @@ English academic homepage for Rui Wang, hosted with GitHub Pages.
 - `styles.css`: responsive layout and typography.
 - `assets/rui-wang.jpg`: portrait supplied by Rui Wang.
 
-No build tools, external fonts, or tracking are required. The contact section uses a small script to copy the email address.
+No build tools, external fonts, or tracking are required. Contact is shown as a plain-text email address.
 
 ## Publish
 
