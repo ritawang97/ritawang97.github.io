@@ -18,3 +18,7 @@ Publication figures and the Zhongguancun Laboratory logo were supplied by Rui Wa
 - **Zhongguancun Laboratory**: circular blue ZGC LAB logo supplied by Rui Wang.
 
 Institution names, marks, and publication figures belong to their respective owners and are used to identify the institutions and research described on this personal academic homepage.
+
+## Current portrait
+
+- `rui-wang-portrait-4d2c2b5fdd91.jpg`: photograph supplied by Rui Wang, with light skin retouching and brightness adjustment using the built-in image generation tool. Original facial proportions and photographic setting were requested to be preserved. The page uses a proportional crop without stretching.
